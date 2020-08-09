@@ -8,6 +8,9 @@ public class IkinciDeneme {
 		System.out.println("Salih bu is Allahin izniyle olacak");
 		
 		System.out.println("Ikinci Deneme Javada degistirdim githuba gelecek mi? ");
+		
+		
+		System.out.println("Ikinci Deneme githuba degistirdim  Javada gelecek mi? ");
 
 	}
 
