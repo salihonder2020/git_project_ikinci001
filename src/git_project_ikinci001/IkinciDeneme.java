@@ -11,7 +11,7 @@ public class IkinciDeneme {
 		
 		
 		System.out.println("Ikinci Deneme githuba degistirdim  Javada gelecek mi? ");
-		System.out.println("Ikinci Deneme githuba conflict gelecek mi? ");
+		System.out.println("Ikinci Deneme githubda conflict yaptim Javaya gelecek mi? ");
 
 	}
 
