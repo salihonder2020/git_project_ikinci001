@@ -6,8 +6,8 @@ public class IkinciDeneme {
 		System.out.println("Ikinci Deneme git projemm");
 		System.out.println("Ikinci Deneme github da degistirdim");
 		System.out.println("Salih bu is Allahin izniyle olacak");
-		System.out.println("Ikinci Deneme Cakisma");
-		System.out.println("Ikinci Deneme conflict");
+		
+		System.out.println("Ikinci Deneme Javada degistirdim githuba gelecek mi? ");
 
 	}
 
